@@ -5,7 +5,7 @@ public class operadores {
         boolean opcao2 = false;
 
         if (opcao1 && opcao2) {
-            System.out.println("As duasopções são verdadeiras!");
+            System.out.println("As duas opções são verdadeiras!");
         } else {
             System.out.println("Nenhuma ou alguma das opções não é verdadeira");
         }
